@@ -1,0 +1,20 @@
+name: com.faith.core
+displayName: FAITH CoreLibrary
+description: Core features to start any project
+repoUrl: 'https://github.com/tashfiq103/com.faith.core'
+parentRepoUrl: null
+licenseSpdxId: null
+licenseName: ''
+topics:
+  - mobile
+  - services
+hunter: ''
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1625202088693
